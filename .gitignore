@@ -1,0 +1,6 @@
+# Неотслеживаемые папки:
+bin/
+obj/
+# Неотслеживаемые файлы:
+ZAdanie.cbp
+ZAdanie.layout
